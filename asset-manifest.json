@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/lending-test/static/css/main.ec6ec779.chunk.css",
-    "main.js": "/lending-test/static/js/main.e1bce44e.chunk.js",
-    "main.js.map": "/lending-test/static/js/main.e1bce44e.chunk.js.map",
+    "main.css": "/lending-test/static/css/main.815c7607.chunk.css",
+    "main.js": "/lending-test/static/js/main.7e4e12a6.chunk.js",
+    "main.js.map": "/lending-test/static/js/main.7e4e12a6.chunk.js.map",
     "runtime-main.js": "/lending-test/static/js/runtime-main.8f2cf050.js",
     "runtime-main.js.map": "/lending-test/static/js/runtime-main.8f2cf050.js.map",
     "static/js/2.256f6e04.chunk.js": "/lending-test/static/js/2.256f6e04.chunk.js",
     "static/js/2.256f6e04.chunk.js.map": "/lending-test/static/js/2.256f6e04.chunk.js.map",
     "index.html": "/lending-test/index.html",
-    "precache-manifest.f64357f63d793e14efc6e6e46187cf78.js": "/lending-test/precache-manifest.f64357f63d793e14efc6e6e46187cf78.js",
+    "precache-manifest.d32bd850128cf64e2c54faf94849cef8.js": "/lending-test/precache-manifest.d32bd850128cf64e2c54faf94849cef8.js",
     "service-worker.js": "/lending-test/service-worker.js",
-    "static/css/main.ec6ec779.chunk.css.map": "/lending-test/static/css/main.ec6ec779.chunk.css.map",
-    "static/media/Header.css": "/lending-test/static/media/header__content.bbcf2c2b.png"
+    "static/css/main.815c7607.chunk.css.map": "/lending-test/static/css/main.815c7607.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.8f2cf050.js",
     "static/js/2.256f6e04.chunk.js",
-    "static/css/main.ec6ec779.chunk.css",
-    "static/js/main.e1bce44e.chunk.js"
+    "static/css/main.815c7607.chunk.css",
+    "static/js/main.7e4e12a6.chunk.js"
   ]
 }

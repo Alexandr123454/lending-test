@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lending-test/static/css/main.815c7607.chunk.css",
+    "main.css": "/lending-test/static/css/main.1dc22fa3.chunk.css",
     "main.js": "/lending-test/static/js/main.7e4e12a6.chunk.js",
     "main.js.map": "/lending-test/static/js/main.7e4e12a6.chunk.js.map",
     "runtime-main.js": "/lending-test/static/js/runtime-main.8f2cf050.js",
@@ -8,14 +8,14 @@
     "static/js/2.256f6e04.chunk.js": "/lending-test/static/js/2.256f6e04.chunk.js",
     "static/js/2.256f6e04.chunk.js.map": "/lending-test/static/js/2.256f6e04.chunk.js.map",
     "index.html": "/lending-test/index.html",
-    "precache-manifest.d32bd850128cf64e2c54faf94849cef8.js": "/lending-test/precache-manifest.d32bd850128cf64e2c54faf94849cef8.js",
+    "precache-manifest.c94e6d448b8b7014f132ed57d1cf1b78.js": "/lending-test/precache-manifest.c94e6d448b8b7014f132ed57d1cf1b78.js",
     "service-worker.js": "/lending-test/service-worker.js",
-    "static/css/main.815c7607.chunk.css.map": "/lending-test/static/css/main.815c7607.chunk.css.map"
+    "static/css/main.1dc22fa3.chunk.css.map": "/lending-test/static/css/main.1dc22fa3.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.8f2cf050.js",
     "static/js/2.256f6e04.chunk.js",
-    "static/css/main.815c7607.chunk.css",
+    "static/css/main.1dc22fa3.chunk.css",
     "static/js/main.7e4e12a6.chunk.js"
   ]
 }
